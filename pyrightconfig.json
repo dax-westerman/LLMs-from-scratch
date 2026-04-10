@@ -1,0 +1,12 @@
+{
+    "include": [
+        "ch02/**"
+    ],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        "**/.*",
+        ".venv",
+        "ch0[^2]/**"
+    ]
+}
